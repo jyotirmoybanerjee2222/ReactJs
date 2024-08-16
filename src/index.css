@@ -1,4 +1,6 @@
-.student {
+
+/* Button*/
+/* .student {
    font-family: Arial;
    font-size: 2em;
    padding: 10px;
@@ -9,4 +11,24 @@
    margin:0;
 
 }
+ */
 
+ /* Conditinal Rendaring*/
+
+ .welcome-message{
+   font-size:2.5rem;
+   background-color:hsl(120,100%,42%);
+   color:white;
+   padding:10px;
+   border-radius: 5px;
+   margin:0;
+ }
+
+ .login-promt{
+   font-size:2.5rem;
+   background-color:hsl(10, 100%, 42%);
+   color:white;
+   padding:10px;
+   border-radius: 5px;
+   margin:0;
+ }
